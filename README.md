@@ -5,14 +5,13 @@ Hello! Welcome to our code review test.
 This repository contains the code for the Flex Technology Group interview. The code is written in Typescript, using Node.js and Express.js.
 
 ## Instructions 📋
-1. Clone this repository to your local machine.
+1. Open this Zip File, and extract the contents to a directory on your computer.
 2. Review the code in `index.ts`.
-3. Write a review of the code, including any issues you find and suggestions for improvement.
-4. Submit your review as a pull request to this repository.
+3. Identify any issues then leave comments, suggestions, and any further questions you may have in a new text file.
 
 ## Submission ✔️
-Please submit your review as a pull request to this repository. The pull request should include a review of the code, including any issues you find and suggestions for improvement.
-You may also feel free to also include any additional comments or questions you have about the code.
+Once you have completed the code review, please send us a text file with your comments, suggestions, and questions. You can send the file to us via the email link below. 
+[Send your answers here](mailto:Nick.Procko@flextg.com?subject=[GitHub]%20Code%20Review%20Answers)
 
 ## Questions? 🤔
 If you have any questions about the code or the interview process, please feel free to reach out to us via email.
