@@ -4,6 +4,8 @@ import sql from 'mssql';
 
 const port = 3000;
 
+//testing
+
 const sqlConfig = {
     user: 'FLEXTG',
     password: 'someSecretPassword',
